@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\bin\Debug\net5.0\DatosAdriano.deps.json
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\bin\Debug\net5.0\DatosAdriano.runtimeconfig.json
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\bin\Debug\net5.0\DatosAdriano.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\bin\Debug\net5.0\DatosAdriano.dll
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\bin\Debug\net5.0\ref\DatosAdriano.dll
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\bin\Debug\net5.0\DatosAdriano.pdb
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\obj\Debug\net5.0\DatosAdriano.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\obj\Debug\net5.0\DatosAdriano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\obj\Debug\net5.0\DatosAdriano.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\obj\Debug\net5.0\DatosAdriano.AssemblyInfo.cs
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\obj\Debug\net5.0\DatosAdriano.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\obj\Debug\net5.0\DatosAdriano.dll
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\obj\Debug\net5.0\ref\DatosAdriano.dll
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\obj\Debug\net5.0\DatosAdriano.pdb
+C:\Users\Alex\source\repos\PruebaAdriano\DatosAdriano\obj\Debug\net5.0\DatosAdriano.genruntimeconfig.cache
